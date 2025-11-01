@@ -1,0 +1,7 @@
+{
+  "name": "尝试端Copy of ChatGiraffe web端",
+  "description": "A fully functional clone of the ChatGiraffe AI chat interface, built with React, TypeScript, and Tailwind CSS, and powered by the Gemini API for real-time, streaming conversations.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
